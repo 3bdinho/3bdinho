@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**3bdinho/3bdinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Abdulrahman Jamal
 
-Here are some ideas to get you started:
+Backend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build stuff that's fast, clean, and actually works.  
+Focused on writing solid backend code and building reliable APIs.
+
+---
+
+### 🧩 What I Use
+- **Backend:** Node.js, Express.js, REST APIs  
+- **Databases:** MongoDB (Mongoose), SQL Server  
+- **Tools & Platforms:** Git/GitHub, Postman  
+
+---
+
+### 🤝 Let's Connect
+[GitHub](https://github.com/3bdinho) · [LinkedIn](https://www.linkedin.com/in/abdulrahman-jamal-621b472a4) · [X](https://x.com/3bdinhOoo)
+
